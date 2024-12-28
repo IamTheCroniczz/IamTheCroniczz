@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Sou o  Lucas Maximo, um estudande de programação de 17 anos e curso Desenvolvimento de Sistemas no SENAI. <br><br>🔧 Habilidades: HTML, CSS, JavaScript, Flutter, Python e muito mais !<br><br>📚 Interesses: Desenvolvimento web, design de interfaces e desenvolvimento de software, Desenvolvimentos de apps e IOT.<br><br>💡 Projetos Recentes: Atualmente, estou trabalhando  em conjunto com alguns colegas no desenvolvimento do site de um PetShop. 
+Olá! Sou o  Lucas Maximo, um estudande de programação e curso Desenvolvimento de Sistemas no SENAI. <br><br>🔧 Habilidades: HTML, CSS, JavaScript, Flutter, Python e muito mais !<br><br>📚 Interesses: Desenvolvimento web, design de interfaces e desenvolvimento de software, Desenvolvimentos de apps e IOT.<br><br>💡 Projetos Recentes: Atualmente, estou trabalhando  em conjunto com alguns colegas no desenvolvimento do site de um PetShop. 
 
 
 
