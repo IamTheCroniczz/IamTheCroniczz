@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫Sobre mim:
 Olá! Sou o  Lucas Maximo, um estudande de programação e curso Desenvolvimento de Sistemas no SENAI. <br><br>🔧 Habilidades: HTML, CSS, JavaScript, Flutter, Python e muito mais !<br><br>📚 Interesses: Desenvolvimento web, design de interfaces e desenvolvimento de software, Desenvolvimentos de apps e IOT.<br><br>
 
 
